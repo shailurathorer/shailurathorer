@@ -54,7 +54,7 @@
 
 | Project | Description | Tools |
 |---|---|---|
-| [XLOOKUP vs VLOOKUP Excel Analysis](https://github.com/shailurathorer/xlookup-vlookup-excel-analysis) | Comparing lookup functions in Excel with real examples | Excel |
+| [SQL Data Warehouse Project](https://github.com/shailurathorer/sql-data-warehouse-project) | End-to-end data warehouse using Medallion Architecture (Bronze, Silver, Gold): ETL pipelines, data cleaning, and a star schema for analytics | MySQL / SQL |
 | [Netflix Data Analysis](https://github.com/shailurathorer/Netflix-Data-Analysis) | Exploring Netflix content trends: genres, countries, release years | Python / Excel |
 | [EV Data Analysis](https://github.com/shailurathorer/evdata-analysis) | Analysing electric vehicle data to find patterns and insights | Python / Excel |
 | [Tableau Dashboards](https://public.tableau.com/app/profile/shailu.rathore/vizzes) | Interactive dashboards published on Tableau Public | Tableau |
